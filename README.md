@@ -14,4 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+## this is simple ecommerce course made by flutter, In this project i use api to fetch data from realtume database like any api from server, I used http library in dart.
 ![max course](https://user-images.githubusercontent.com/81559061/126894055-6848f270-5bff-4b36-9cab-545c9a054040.PNG)
