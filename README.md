@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Screenshot_2021-07-25-11-36-37-430_com example ecommerce_max_app](https://user-images.githubusercontent.com/81559061/126893109-dce85ef6-a59e-4417-b328-d0d87d468212.jpg =250x250) 
+![Screenshot_2021-07-25-11-36-37-430_com example ecommerce_max_app](https://user-images.githubusercontent.com/81559061/126893109-dce85ef6-a59e-4417-b328-d0d87d468212.jpg | width=100) 
 ![Screenshot_2021-07-25-11-36-52-925_com example ecommerce_max_app](https://user-images.githubusercontent.com/81559061/126893110-9952ebf2-bfdd-4198-8e65-0ba5e316e6df.jpg)
 ![Screenshot_2021-07-25-11-37-04-229_com example ecommerce_max_app](https://user-images.githubusercontent.com/81559061/126893112-cba663fd-8e15-4818-9203-da5bd72891e8.jpg)
 ![Screenshot_2021-07-25-11-37-06-504_com example ecommerce_max_app](https://user-images.githubusercontent.com/81559061/126893115-0453c256-4cbf-4b10-9d56-d57207cb6dca.jpg)
